@@ -108,7 +108,7 @@ public class jsonReader {
             result = server_requests.setElement(jsonStr);
             if (result == null)
                 return;
-//            System.out.println(result);
+            System.out.println("Server response: " + result);
 
         } catch (Exception e) {
             System.out.println(e.getMessage());

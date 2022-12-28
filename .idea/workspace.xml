@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="30fad2e9-4937-4738-a977-7310e19be1be" name="Changes" comment="" />
+    <list default="true" id="30fad2e9-4937-4738-a977-7310e19be1be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 - From A to B (Set and Reset).factoryio" beforeDir="false" afterPath="$PROJECT_DIR$/2 - From A to B (Set and Reset).factoryio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/jsonReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/jsonReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/server_requests.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryIO_web_api/src/main/java/server_requests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryIO_web_api/target/classes/jsonReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/factoryIO_web_api/target/classes/jsonReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factoryIO_web_api/target/classes/menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/factoryIO_web_api/target/classes/menu.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +25,39 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2JXxfdVC5AUtuBlwxZj535MYZ8E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/danie/Documents/GitHub/SuperCoordinator"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/Documents/GitHub/SuperCoordinator&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="menu" />
+      <module name="factoryIO_web_api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.menu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -28,13 +28,13 @@ public class menu {
                     }
                     break;
                 case 2:
-                    value = Objects.requireNonNull(jsonReader.getElementStatus("Conveyor")).toLowerCase();
+                    value = Objects.requireNonNull(jsonReader.getElementStatus("Emitter 0")).toLowerCase();
                     if (value.equals("false")) {
                         System.out.println("Emitter 0: ON");
-                        jsonReader.setElement("Conveyor", "true");
+                        jsonReader.setElement("Emitter 0", "true");
                     } else {
                         System.out.println("Emitter 0: OFF");
-                        jsonReader.setElement("Conveyor", "false");
+                        jsonReader.setElement("Emitter 0", "false");
                     }
                     break;
                 case 3:

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SuperCoordinator.iml" filepath="$PROJECT_DIR$/.idea/SuperCoordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryIO_web_api/factoryIO_web_api.iml" filepath="$PROJECT_DIR$/factoryIO_web_api/factoryIO_web_api.iml" />
     </modules>
   </component>
 </project>

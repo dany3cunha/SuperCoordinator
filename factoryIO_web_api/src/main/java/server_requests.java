@@ -57,10 +57,10 @@ public class server_requests {
 
     }
 
-    public static String setElement( String jsonString) {
+    public static String setElement(String jsonString) {
         String url = "http://localhost:7410/api/tag/values/by-name/";
 
-        System.out.println("(server_requests) Recv JsonString: " + jsonString);
+        System.out.println("Server requests: " + jsonString);
         try {
             HttpClient client = HttpClient.newHttpClient();
 
